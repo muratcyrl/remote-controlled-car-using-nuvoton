@@ -37,7 +37,7 @@ A **remote-controlled car** program built using **Nuvoton microcontroller** and 
 
 ## 🔧 **HARDWARE REQUIREMENTS**
 - Nuvoton microcontroller
-- Bluetooth or Wi-Fi module for communication
+- Bluetooth module for communication
 - Motor driver (e.g., L298N or equivalent)
 - Chassis with DC motors and wheels
 - Power source (battery pack)
