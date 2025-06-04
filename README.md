@@ -2,7 +2,7 @@
 # 🚗 **REMOTE CAR PROJECT**
 
 A **remote-controlled car** program built using **Nuvoton microcontroller** and written in **C language**. The car features two operating modes:  
-1. **Manual Mode** – Control the car via an Android application.  
+1. **Manual Mode** – The car is controlled by a driver.  
 2. **Remote Mode** – The car operates autonomously based on received commands.
 
 ---
@@ -90,24 +90,10 @@ Contributions are welcome! You can:
 - Suggest features
 - Improve documentation
 
-To contribute:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m "Add YourFeature"`).
-4. Push the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
 ---
 
 ## 📝 **LICENSE**
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
----
-
-## 📧 **CONTACT**
-For questions or collaboration, reach out via:  
-- **Email**: [your-email@example.com]  
-- **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-profile)  
 
 ---
 
