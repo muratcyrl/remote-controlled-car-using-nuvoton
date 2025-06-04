@@ -1,0 +1,5 @@
+--c99 --gnu -c --cpu Cortex-M0 -D__MICROLIB -g -O2 --apcs=interwork -I ..\..\..\..\Library\StdDriver\inc -I ..\..\..\..\NUC029FAE_BSP\Library\StdDriver\src -I ..\..\..\..\Library\CMSIS\Include -I ..\..\..\..\Library\Device\Nuvoton\NUC029FAE\Include -I ..\..\..\..\Library\StdDriver\inc
+-IC:\Keil_v5\ARM\RV31\INC
+-IC:\Keil_v5\ARM\CMSIS\Include
+-D__UVISION_VERSION="538" -DDEBUG_ENABLE_SEMIHOST
+-o .\obj\mycar.o --omf_browse .\obj\mycar.crf --depend .\obj\mycar.d --feedback ".\obj\UART.fed" "..\..\..\..\Library\StdDriver\src\mycar.c"
